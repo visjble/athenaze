@@ -57,7 +57,7 @@ const EMAIL_SUBJECT = "Random Sentence from Athenaze Texts";  // Email subject
 
 ### 4. Set Up Daily Automation (Optional)
 
-Run the `setupDailyTrigger()` function to receive daily translations at 9 AM.
+Run the `setupDailyTrigger()` function to receive daily translations at 9 AM or more often.
 
 ## Usage
 
