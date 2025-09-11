@@ -5,7 +5,7 @@
 function emailRandomTranslatedSentence() {
   // Configuration - UPDATE THESE VALUES
   const DOC_NAME = "Athenaze_Texts";
-  const EMAIL_RECIPIENT = "mazzon@gmail.com";
+  const EMAIL_RECIPIENT = "your-email-here";
   const EMAIL_SUBJECT = "Random Sentence from Athenaze Texts";
 
   try {
